@@ -1,6 +1,6 @@
 let firstNumber = 20;
 let secondNumber = 40;
-function sum(Number, Number){
+function sum(number1, number2){
     let result = Number + Number ;
     return result ;
 }
